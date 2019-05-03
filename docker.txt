@@ -1,0 +1,4 @@
+What is a Docker Container?
+
+In short, it's a way to package a program/application to eliminate dependency issues. 
+This ensures the application will work as intended regrdless of its environment.
